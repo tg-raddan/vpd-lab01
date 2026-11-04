@@ -1,0 +1,34 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# Java
+*.class
+
+# .NET
+bin/
+obj/
+
+# Node.js / TypeScript
+node_modules/
+typescript/dist/
+dist/
+
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Local reports
+report/
